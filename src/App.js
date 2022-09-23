@@ -1,5 +1,11 @@
+import Layout from "./Employers/Layout";
+
 const App = () => {
-	return <div>App</div>;
+	return (
+		<div>
+			<Layout />
+		</div>
+	);
 };
 
 export default App;
